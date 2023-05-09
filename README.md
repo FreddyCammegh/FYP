@@ -9,4 +9,4 @@ ROS implementation:
 
 
 
-The codes required for each implementation are found in the relevant folders. The weights for the object detection model and camera calibration script are alos provided.
+The codes required for each implementation are found in the relevant folders. The weights for the object detection model and camera calibration script are also provided.
